@@ -1,0 +1,11 @@
+# Compiled files
+*.class
+bin/
+build/
+
+# IDE settings
+.idea/
+.vscode/
+
+.env
+
